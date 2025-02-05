@@ -14,9 +14,4 @@ This project analyzes the **Chicago Employee Payroll Data**, which includes sala
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Jupyter Notebook** for analysis and reporting  
 
-## **Results & Insights:**  
-- Salary trends across different departments.  
-- Overtime pay and compensation variations.  
-- Anomalies in payroll distributions.  
-
 ---
